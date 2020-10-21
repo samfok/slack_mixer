@@ -19,7 +19,7 @@ MEMBER_CHANNEL = 'C01BK0926V8' # evgr-randomcoffees
 # MEMBER_CHANNEL = 'C019ZHSR78W' # evgr-test
 
 # channel to post message
-POST_CHANNEL = '#evgr-randomcoffees'
+POST_CHANNEL = '#evgr-chance-encounters'
 
 client = WebClient(token=TOKEN)
 
